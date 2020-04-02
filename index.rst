@@ -69,6 +69,11 @@ Widgets
 
    widgets.rst
    many2many_tags.rst
+   
+   Här vill jag ha in:
+   radio-buttons
+   den som visas som taggar.
+   
 
 =========================
 Datakatalog
